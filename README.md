@@ -6,3 +6,5 @@ The first program was designed to capitalize certain words in a list.  The follo
 The second program was designed to define a function and then print out the names #on a list when the function "good" is called.  No bugs to report.
 
 The third program was designed with a generator function that returns the odd numbers #from range(10) Using a for loop to find and print the third value returned.  The bug to report is that I was able to print the list of odd numbers, but was unable to isolate and print only the third value.  Instead, values '1, 3, 5, 7, 9' printed.
+
+Forgot to add the requirements.txt file.  Added and resubmitted.
